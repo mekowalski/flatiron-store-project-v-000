@@ -27,5 +27,4 @@ class Cart < ActiveRecord::Base
     end
     user.checkout_current_cart
   end
-
 end
